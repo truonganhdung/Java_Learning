@@ -1,8 +1,10 @@
 package guru;
 
 /* Author: truonganhdung
- * Created Date: 10/08/2018
- * Modified Date: xx/xx/2018
+ * Created Date: 11/09/2018
+ * Modified Date: ../../2018
+ * 
+ * https://www.guru99.com/java-variables.html#4
  * */
 
 import org.testng.annotations.Test;
